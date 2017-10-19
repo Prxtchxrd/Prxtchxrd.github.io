@@ -1,3 +1,3 @@
 # Prxtchxrd.github.io
-My Personal Website <bt />
-This is a testweb for personal usage
+My Personal Website  
+This is a testweb for personal usage  
